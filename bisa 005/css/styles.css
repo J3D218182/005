@@ -1,0 +1,137 @@
+.body {
+  background-color: black;
+}
+
+.carousel-indicators {
+  width: 1349px;
+  height: 5px;
+  margin: 9px auto;
+}
+
+.carousel-indicators li {
+  width: 1349px;
+  height: 5px;
+  background-color: red;
+  margin: auto;
+}
+
+.about {
+  width: 300px;
+  border: 1px solid;
+  border-radius: 0px;
+
+  position: absolute;
+  margin-top: 550px;
+  margin-left: -10px;
+  background-color: #e53732;
+  text-align: left;
+}
+
+.about1 .btn-group button {
+  width: 160px;
+  border: 0.5px solid;
+  border-radius: 0px;
+  border-color: white;
+  position: relative;
+  margin-top: 700px;
+  margin-left: 180px;
+  background-color: #e53732;
+  text-align: left;
+}
+.fq {
+  background-color: black;
+}
+.faq {
+  width: 1349px;
+  height: 838px;
+  background-color: #171717;
+  margin-top: 58px;
+}
+
+.faq_head {
+  width: 115px;
+  height: 105px;
+  margin-top: 193px;
+  margin-left: 193px;
+  position: absolute;
+}
+
+.faq .list-group {
+  width: 924px;
+  height: 369px;
+  margin-top: 350px;
+  margin-left: 193px;
+  margin-right: 193px;
+  position: absolute;
+}
+
+.faq .list-group .list-group-item {
+  margin-bottom: 10px;
+  line-height: 20px;
+  border-radius: 0px;
+  background-color: #171717;
+  border-left: 2px;
+  border-right: 2px;
+  border-color: darkgrey;
+}
+
+.contact {
+  width: 1349px;
+  height: 77px;
+  background-color: #171717;
+}
+
+.contact a {
+  font: 12px/12px arial, sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.contact h3 {
+  font: 12px/12px arial, sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.bawah {
+  width: 1349px;
+  height: 51px;
+  background-color: #e53732;
+  position: relative;
+}
+
+.bawah .bottom a {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  right: 0px;
+}
+
+.bawah .buttonlast .btn-group-a button {
+  width: 101px;
+  height: 51px;
+  border-radius: 0px;
+  background-color: #b32c27;
+  font: 12px/12px arial, sans-serif;
+  margin-left: 2px;
+  position: absolute;
+}
+
+.bawah .buttonlast .btn-group-b button {
+  width: 177px;
+  height: 51px;
+  border-radius: 0px;
+  background-color: #b32c27;
+  font: 12px/12px arial, sans-serif;
+  margin-left: 2px;
+  position: absolute;
+}
+
+.bawah .tekslast {
+  font: 16px/14px arial, sans-serif;
+  color: white;
+  font-weight: bold;
+  margin-top: 1px;
+  margin-left: 193px;
+  position: absolute;
+}
